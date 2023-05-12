@@ -727,10 +727,6 @@ body {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-item-box:hover .portfolio-photo-text-frame {
-  opacity: 10;
-}
-
 .portfolio-items:hover .portfolio-photo-text-frame,
 .portfolio-items:hover .portfolio-photo-text-frame {
   transform: translateY(0);
