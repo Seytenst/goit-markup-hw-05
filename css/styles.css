@@ -726,3 +726,14 @@ body {
 .portfolio-item-link:focus .portfolio-photo-text {
   transform: translateY(0%);
 }
+
+.portfolio-photo-text-frame {
+  position: absolute;
+  padding: 40px 32px 0 32px;
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: translateY(101%);
+}
