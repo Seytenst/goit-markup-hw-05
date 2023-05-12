@@ -719,3 +719,16 @@ body {
 .portfolio-items .portfolio-item-box:hover {
   transform: translateY(0);
 }
+
+.portfolio-items:hover {
+  transform: translateY(0);
+}
+
+.portfolio-item-box:hover .portfolio-photo-text {
+  transform: translateY(0%);
+}
+
+.portfolio-items:hover,
+.portfolio-items:focus {
+  transform: translateY(0);
+}
