@@ -736,6 +736,3 @@ body {
 .portfolio-item-box:hover .portfolio-photo-text {
   transform: translateY(0%);
 }
-.portfolio-photo-text:focus{
-  transform: translateY(0%);
-}
